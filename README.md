@@ -6,7 +6,7 @@ If you are looking for my active repositories, recent commits, or current projec
 
 ### Why is this account still here?
 
-I have used the `Bouhnosaure` handle for more thanr 10 years. My digital footprint under this name is deeply tied to a decade of open-source contributions, Stack Overflow answers, Gists, and automated CI/CD pipelines relying on legacy container registries. 
+I have used the `Bouhnosaure` handle for more than 14 years. My digital footprint under this name is deeply tied to a decade of open-source contributions, Stack Overflow answers, Gists, and automated CI/CD pipelines relying on legacy container registries. 
 
 To avoid breaking old `git clone` URLs, un-linking thousands of issue mentions, and to prevent domain squatting on my historical identity, I am keeping this account as a **read-only legacy archive**.
 
