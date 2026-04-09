@@ -1,16 +1,21 @@
-## Hi there 👋
+# 🦖 The Bouhnosaure has migrated.
 
-<!--
-**Bouhnosaure/Bouhnosaure** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+If you are looking for my active repositories, recent commits, or current projects, please head over to my new unified profile: 
 
-Here are some ideas to get you started:
+👉 **[@dayio](https://github.com/dayio)**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Why is this account still here?
+
+I have used the `Bouhnosaure` handle for more thanr 10 years. My digital footprint under this name is deeply tied to a decade of open-source contributions, Stack Overflow answers, Gists, and automated CI/CD pipelines relying on legacy container registries. 
+
+To avoid breaking old `git clone` URLs, un-linking thousands of issue mentions, and to prevent domain squatting on my historical identity, I am keeping this account as a **read-only legacy archive**.
+
+### Where to find me now
+
+Active development, infrastructure logs, and my digital notebook have all moved to my new namespace:
+
+* **GitHub:** [@dayio](https://github.com/dayio)
+* **Blog / Lab:** [dayio.dev](https://dayio.dev)
+
+---
+*End of line for Bouhnosaure. See you on the other side.*
